@@ -52,4 +52,7 @@ Untuk dataframe asli Anda, karena tidak mengandung data teks, model bahasa seper
 # Visualization 
 <img width="561" height="412" alt="image" src="https://github.com/user-attachments/assets/a73c0dbc-7566-4bda-bd67-7054187ab065" />
 
+<img width="1023" height="564" alt="Screenshot 2025-08-03 194211" src="https://github.com/user-attachments/assets/1697d4e8-0ba3-4b82-a2e5-d66ad72c0677" />
+
+
 

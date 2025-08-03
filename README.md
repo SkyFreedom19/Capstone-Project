@@ -1,19 +1,19 @@
 # Capstone-Project
 Analysis Laptop Price using LLM ibm granite
 
-#Title Project
+# Title Project
 Analysis Laptop Price Using LLM IBM Granite
 
-#Raw Dataset Link
+# Raw Dataset Link
 https://www.kaggle.com/datasets/owm4096/laptop-prices/data
 
-#Project Overview
+# Project Overview
 Tujuan: Pengumpulan spesifikasi laptop untuk inventarisasi, perbandingan, atau tinjauan teknis/analisis pasar.
 Latar Belakang: Bagian dari dataset atau proyek yang berfokus pada spesifikasi laptop, mungkin untuk dokumentasi, penelitian, atau tujuan pendidikan.
 Masalah Khusus: Diperkirakan sebagai masalah umum yang diatasi oleh spesifikasi detail (misalnya, optimasi kinerja, pemeriksaan kompatibilitas, mengidentifikasi laptop untuk kebutuhan pengguna tertentu).
 Pendekatan: Pengumpulan dan pengorganisasian sistematis spesifikasi detail dalam format terstruktur (pandas DataFrame) untuk akses dan perbandingan yang mudah.
 
-#Insight & Findings
+# Insight & Findings
 Perusahaan Unik: Apple, HP 
 Jenis Unik: Ultrabook, Notebook 
 Perusahaan CPU Unik: Intel, AMD (Intel lebih umum) 
@@ -23,7 +23,7 @@ Penyimpanan Sekunder: 4 tanpa penyimpanan sekunder, 1 dengan ‘Tidak’ penyimp
 
 Temuan ini memberikan gambaran yang jelas tentang model laptop yang termasuk dalam dataframe, produsennya, dan konfigurasi penyimpanannya.
 
-#AI Support Explanation
+# AI Support Explanation
 Untuk menjelaskan bagaimana model bahasa seperti saya dapat digunakan untuk menganalisis data teks yang berkaitan dengan laptop, seperti ulasan atau deskripsi, ikuti langkah-langkah berikut:: 
 Install TextBlob (run this in a separate code cell): ```bash !pip install textblob ``` 
 Import TextBlob and perform sentiment analysis: ```python 

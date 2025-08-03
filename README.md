@@ -47,4 +47,9 @@ print(df_text[['description', 'sentiment']])
 Kode ini akan menambahkan kolom ‘sentimen’ ke dataframe, menghitung polaritas sentimen untuk setiap deskripsi laptop menggunakan TextBlob. Skor polaritas berkisar dari -1 (paling negatif) hingga 1 (paling positif).
 Perlu diingat, contoh ini menggunakan deskripsi hipotetis karena dataframe asli `df` hanya berisi data numerik dan kategorikal, bukan teks yang cocok untuk analisis sentimen. Dalam skenario dunia nyata, Anda akan mengganti deskripsi hipotetis dengan data teks aktual dari ulasan atau deskripsi produk.
 Untuk dataframe asli Anda, karena tidak mengandung data teks, model bahasa seperti saya tidak dapat diterapkan langsung untuk tugas-tugas seperti klasifikasi, ringkasan, atau analisis sentimen. Model bahasa memerlukan masukan teks untuk melakukan tugas-tugas semacam ini.
+```
+
+# Visualization 
+<img width="561" height="412" alt="image" src="https://github.com/user-attachments/assets/a73c0dbc-7566-4bda-bd67-7054187ab065" />
+
 
